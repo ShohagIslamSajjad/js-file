@@ -2,6 +2,7 @@ console.log("hello world")
 const PUBLIC_KET = "pk_2057590b78bfaaab6e5dea39ddfaebb9040abc401a23c";
 const commerce   = new Commerce(PUBLIC_KET, true)
 const fastRow = document.querySelector(".fastRow")
+console.log("hehehe",fastRow)
 commerce.products.list().then(({data,meta})=>{
     data.forEach((b)=>{
         const rowStore = `
