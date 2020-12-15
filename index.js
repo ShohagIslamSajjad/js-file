@@ -57,7 +57,7 @@ const html = `
 
 <div class="bg-dark mb-2"><br><br></div>  `
 storeBody.innerHTML= html
-
+console.log("hey i am shohag ")
 
 
 
