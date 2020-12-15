@@ -15,9 +15,9 @@ const html =`
 
 
     </span>
-    <a class="text-warning" href="index.html"><b><i class="fas fa-home"></i>Home</b></a>
+    <a class="text-warning" href="home"><b><i class="fas fa-home"></i>Home</b></a>
 
-    <a class="text-warning" href=""><b><i class="fas fa-user-plus"></i>Login</b></a>
+    <a class="text-warning" href="login"><b><i class="fas fa-user-plus"></i>Login</b></a>
     <a class="text-warning" href=""><b><i class="fas fa-sign-in-alt"></i>.SignUp</b></a>
     <a class="text-warning" href="#"><b><i class="fas fa-cart-plus"></i>-Card</b></a>
 
