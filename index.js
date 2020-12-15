@@ -39,7 +39,7 @@ const html = `
     <div>
   
 
-<div class="row fastRow">
+<div class="row div-row">
  
 
 </div>
