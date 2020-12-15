@@ -56,7 +56,7 @@ const html = `
 
 
 <div class="bg-dark mb-2"><br><br></div>  `
-storeBody,innerHTML= html
+storeBody.innerHTML= html
 
 
 
