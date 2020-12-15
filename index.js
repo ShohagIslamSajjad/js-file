@@ -30,7 +30,7 @@ const html = `
 </div>
 <div class="bg-warning pb-0">
 <div class=" p-5">
-<img style="height:400px" src="img/img1.jpg" class="img-thumbnail w-100" alt="Product Photo">
+<img style="height:400px" src="https://github.com/ShohagIslamSajjad/js-file/blob/master/img1.jpg" class="img-thumbnail w-100" alt="Product Photo">
 </div>
 <div style="background-color: #6200EE;">
   <hr class="mt-2" style="height: 5px;background-color: wheat;">
